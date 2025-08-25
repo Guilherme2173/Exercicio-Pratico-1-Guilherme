@@ -1,0 +1,26 @@
+<<table border="1">
+    <tr>
+        <td>Disciplina</td>
+        <td>Professor</td>
+        <td>Horário</td>
+    </tr>
+    <tr>
+        <td>Geografia</td>
+        <td>Prof. Claudio</td>
+        <td>08:00 - 09:00</td>
+    </tr>
+    <tr>
+        <td>História</td>
+        <td>Prof. Jhulya</td>
+        <td>09:00 - 10:00</td>
+    </tr>
+    <tr>
+        <td>Artes</td>
+        <td>Prof. otavio</td>
+        <td>10:00 - 11:00</td>
+    </tr>
+    <tr>
+        <td>Português</td>
+        <td>Prof. Kalledy</td>
+        <td>11:00 - 12:00</td>
+    </tr>
