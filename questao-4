@@ -1,0 +1,14 @@
+<body>
+    <h2> Entre em Contato </h2>
+    <form action="/submit_form" method="post">
+        <label for ="name"> Nome: </label> <br>
+        <input type="text" id="name" name="name"> <br><br>
+        
+    <form action="/submit_form" method="post">
+        <label for ="name"> Email: </label> <br>
+        <input type="text" id="name" name="name"> <br><br>
+        
+            <form action="/submit_form" method="post">
+        <label for ="name"> Mensagem: </label> <br>
+        <textarea type="text"> </textarea> <br><br>
+        
